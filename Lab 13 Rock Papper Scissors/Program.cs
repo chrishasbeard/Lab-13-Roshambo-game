@@ -142,7 +142,7 @@ namespace Lab_13_Rock_Papper_Scissors
                 }
                 else if (throw1 == Roshambo.paper && throw2 == Roshambo.rock)
                 {
-                    Console.WriteLine($"\n{playerName} won!");
+                    Console.WriteLine($"\nYou won!");
                     playerwins++;
                     Console.WriteLine($"The score is Rocky: {rockywins}  You: {playerwins}");
 
