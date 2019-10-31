@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.exe
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.deps.json
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.dll
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\bin\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.pdb
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\obj\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\obj\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\obj\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\obj\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.dll
+C:\Users\Holmes HQ\source\repos\Lab 13 Rock Papper Scissors\Lab 13 Rock Papper Scissors\obj\Debug\netcoreapp3.0\Lab 13 Rock Papper Scissors.pdb
